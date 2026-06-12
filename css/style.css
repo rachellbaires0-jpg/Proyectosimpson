@@ -34,7 +34,7 @@ h1, h2, h3 {
     background-color: var(--amarillo-simpson) ;
     padding: 40px 20px;
     border-bottom: 5px solid var(--azul-simpson);
-    border-radius: 15px 15px 15px 15px; /*Bordes*/
+    border-radius: 15px 15px 15px 15px; /Bordes/
     margin-bottom: 30px;
 }
 
@@ -47,5 +47,5 @@ h1, h2, h3 {
 }
 
 .img-simpson:hover {
-    transform: scale(1.03); /*Efecto sutil al pasar el mouse*/
+    transform: scale(1.03); /Efecto sutil al pasar el mouse/
 }
